@@ -1,2 +1,2 @@
 # Whatsapp_ReactNative
-Projet React Native
+Projet académique React Native
